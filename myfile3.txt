@@ -1,1 +1,2 @@
 This is the third file created for Git
+This is the second line added to this file
